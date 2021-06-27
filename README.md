@@ -1,2 +1,2 @@
 # ChoquetLearn
-Public repository for the code associated to the paper ....
+The code will be released as soon as the paper is accepted
